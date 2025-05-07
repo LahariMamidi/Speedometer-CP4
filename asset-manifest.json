@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Speedometer-CP4/static/css/main.9ed140ef.css",
+    "main.js": "/Speedometer-CP4/static/js/main.6bf20a43.js",
+    "static/js/453.f2cee86e.chunk.js": "/Speedometer-CP4/static/js/453.f2cee86e.chunk.js",
+    "index.html": "/Speedometer-CP4/index.html",
+    "main.9ed140ef.css.map": "/Speedometer-CP4/static/css/main.9ed140ef.css.map",
+    "main.6bf20a43.js.map": "/Speedometer-CP4/static/js/main.6bf20a43.js.map",
+    "453.f2cee86e.chunk.js.map": "/Speedometer-CP4/static/js/453.f2cee86e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9ed140ef.css",
+    "static/js/main.6bf20a43.js"
+  ]
+}
